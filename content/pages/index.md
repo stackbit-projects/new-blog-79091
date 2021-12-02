@@ -40,6 +40,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |2
+         
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
