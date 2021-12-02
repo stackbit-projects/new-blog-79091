@@ -40,13 +40,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
-
-
-
-
-
-
+    text: |
+      Enter some text here...
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
