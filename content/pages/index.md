@@ -40,9 +40,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
-      My description
-
+    text: |
+      Another change
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
